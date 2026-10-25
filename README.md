@@ -8,7 +8,7 @@ Currently working across three design and development roles: UX and front-end wo
 
 ## Repos
 
-**[Carolina Boxer Rescue — UX/UI Prototype](https://github.com/BenDCollins/Carolina-Boxer-Rescue-UX-UI-Prototype) — Live HTML, CSS, and TypeScript prototype built from scratch for a full UX/UI redesign of the Carolina Boxer Rescue website. Active senior capstone developed in direct client collaboration, supported by CSURF research funding for user testing and an academic exploration of agentic AI-assisted design feedback.
+**[Carolina Boxer Rescue — UX/UI Prototype](https://github.com/BenDCollins/Carolina-Boxer-Rescue-UX-UI-Prototype)** — Live HTML, CSS, and TypeScript prototype built from scratch for a full UX/UI redesign of the Carolina Boxer Rescue website. Active senior capstone developed in direct client collaboration, supported by CSURF research funding for user testing and an academic exploration of agentic AI-assisted design feedback.
 
 **[Chalkbag](https://github.com/BenDCollins/chalkbag-website)** — Fully functional fictional rock climbing resource site built from scratch in HTML, CSS, and JavaScript. Features original branding, semantic HTML, navigation, embedded video, submission forms with validation, and tables. Deployed live on GitHub Pages.
 
