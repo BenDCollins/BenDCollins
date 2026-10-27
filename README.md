@@ -29,4 +29,4 @@ Currently working across three design and development roles: UX and front-end wo
 
 ## Find me
 
-[Portfolio](https://bencollins.webflow.io) · [LinkedIn](https://www.linkedin.com/in/bendcollins/) · [YouTube](https://www.youtube.com/@BenDCollins) · [ben.d.collins@outlook.com](mailto:ben.d.collins@outlook.com) · [Instagram](https://www.instagram.com/ben.d.collins/)
+[Portfolio](https://bencollins.webflow.io) · [LinkedIn](https://www.linkedin.com/in/bendcollins/) · [YouTube](https://www.youtube.com/@BenDCollins) · [Instagram](https://www.instagram.com/ben.d.collins/) · [ben.d.collins@outlook.com](mailto:ben.d.collins@outlook.com)
